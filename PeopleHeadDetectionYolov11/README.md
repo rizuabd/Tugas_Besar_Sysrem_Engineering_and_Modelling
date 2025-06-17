@@ -11,4 +11,4 @@ link gdrive dataset dan model: https://drive.google.com/drive/folders/1kdYZ9s8q0
 pada gdrive folder "merged_dataset" berisikan data image yang digunakan, folder "model" berisikan file .yaml dari yolov11 (otomatis akan memilih yolo11n), dan untuk folder "runs" berisikan file model yang sudah di-trained dengan extension .pt (karena menggunakan pytorch) dan juga terdapat file result dari hasil evaluasi (bukan real-world).
 
 
-![image](https://github.com/user-attachments/assets/c8b0148e-5c3f-4e72-b196-f5912219b665)
+![image](https://imgur.com/a/hcaBhT9)
